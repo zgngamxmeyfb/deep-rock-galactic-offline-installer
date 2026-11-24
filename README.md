@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Deep Rock Galactic is a 1-4 player co-op FPS featuring dwarven space miners, procedurally-generated destructible environments, and endless hordes of alien monsters. Explore cave systems, mine for minerals, and work together to survive!
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Min: Intel i5, 3rd gen (or equivalent) / Rec: Intel i5, 7th gen (or equivalent) | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 6 GB RAM / Rec: 8 GB RAM | 6 GB RAM |
+| **Graphics** | Min: NVIDIA GeForce GTX 660 or AMD Radeon HD 7870 / Rec: NVIDIA 970 / AMD Radeon 290 | Metal-capable GPU |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 3 GB available space | 3 GB available space |
+| **Network** | Broadband Internet connection | Broadband Internet connection |
+| **OS *** | Windows 7 64 Bit | Windows 7 64 Bit |
 
 ---
 
